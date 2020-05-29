@@ -1,5 +1,5 @@
 
-
+![alt InsideSherpa](https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience)
 
 Task Overview | Installation Instructions | Link to Module 1 | JP Morgan Chase & Co Software Engineering Virtual Experience
 
